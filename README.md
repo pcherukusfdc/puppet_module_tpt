@@ -6,9 +6,9 @@ This release branch contains github workflow and the release.txt
 .github/workflow/release_manager.yaml
 
 ### release.txt
-dev: <tag>/<branch><br />
-test: <tag>/<branch><br />
-stage: <tag>/<branch><br />
-prod: <tag>/<branch><br />
+dev: tag/branch<br />
+test: tag/branch<br />
+stage: tag/branch<br />
+prod: tag/branch<br />
 
 Thanks 
