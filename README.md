@@ -11,4 +11,6 @@ test: tag/branch<br />
 stage: tag/branch<br />
 prod: tag/branch<br />
 
+Note: This release branch should not be merged into **main** branch
+
 Thanks 
